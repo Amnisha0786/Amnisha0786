@@ -1,26 +1,18 @@
 # Hi, I'm Amnisha 👋
 
-My journey started with simple HTML, CSS, and JavaScript websites. Today, I build production applications used in healthcare and enterprise environments - from patient portals and medical imaging workflows to AI-powered governance and audit platforms.
+Glad you're here, A bit about me:
 
-I enjoy turning complex requirements into intuitive, scalable, and high-performance user experiences.
+As a Developer 🧑‍💻  
+I enjoy building clean, scalable systems that actually get used in real environments - from healthcare workflows to enterprise dashboards.  
+I care about performance, structure, and making complex systems feel simple for users.
 
-## Featured Projects
+I’ve worked on production applications involving real-time updates, secure APIs, payments, and multi-role platforms - where reliability matters more than just “it works”.
 
-🏥 BEDR Professional – Healthcare platform connecting doctors, optometrists, clinics, readers, patients, and administrators through real-time workflows and medical imaging systems.
+As a Teammate 🤝  
+I like collaborating, discussing ideas openly, and then committing fully to decisions once they’re made.  
+I value clarity over noise and believe good communication keeps systems (and teams) strong.
 
-📊 SEEIO – Governance and audit platform with AI-assisted workflows, enterprise dashboards, and large-scale data management.
-
-⚡ Building responsive, reusable, and maintainable web applications with a focus on performance and user experience.
-
-## Tech Stack
-
-React • Next.js • TypeScript • JavaScript • Node.js • PostgreSQL • MongoDB • GraphQL • WebSockets • Tailwind CSS • Shadcn UI • Ant Design • Java • Spring Boot • Python • Django
-
-## Currently
-
-🎓 Master of Applied Computing @ University of Windsor
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/amnisha-801629222/
-- Email: amnisha@uwindsor.ca
+Personal ℹ️  
+Always curious about better ways to build software that scales and stays maintainable 🌱  
+Currently based in Ontario, Canada 🍁  
+Open to Software Developer opportunities 🚀
